@@ -3,4 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+# paginate: true
+alt_title: Rung by Rung
+sub_title: Towards the Stars.
+image: /assets/images/ladder-stars.jpg
+introduction: |
+  This is the blog of Sam Clarke. If you consciously form the intention to do so, I invite you to read a post or click on the menu.
+entries_layout: list #grid
 ---

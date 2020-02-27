@@ -1,25 +1,48 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-02-18 20:21:21 +1300
-categories: jekyll update
+title:  Beware the will-o’-the-wisp! and other lessons
+date:   2020-02-27 17:50:00 +1300
+categories: lessons
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+[some kind of short introduction]
+How many problems to discuss?
+Maybe just three?
+1 Beware the will-o’-the-wisp!
+In English folk tales, the will-o'-the-wisp is a ghostly light, seen by travellers at night. Because it recedes as travellers approach, it earned an infamous reputation for leading astray the curious or confused.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+In my nighttime travels through the treacherous terrain of RL, I was enticed by two such receding targets. Firstly, I intended to get in touch with the authors of some related work, which I expect would have resulted in some invaluable guidance. Before doing so, however, I felt a need to “prove myself” by making a solid start with the project, and having something to show for it. But of course, the target of “having something to show for it” receded as I approached---and so I never sent the email.
 
-Jekyll also offers powerful support for code snippets:
+Secondly, I was enticed by the light of “being seen to be making good progress” by my supervisor. So, when I inevitably encountered setbacks, I avoided meeting with my supervisor until I was “back on track”. But of course, by the time I’d resolved the setback, the criterion for “back on track” had moved along, and so I worked furiously to try to catch up. Sometimes this worked, but more often I got stuck again while chasing that target---and so the cycle repeated---until I was “embarrassingly” behind and hadn’t spoken to my supervisor for weeks.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+What could I have done differently? If I had pre-committed to sending the email at the end of week 3 of my research, or pre-committed to regular check-ins with my supervisor, then I wouldn’t have had to chase the receding, ghostly light of my own self-worth. [maybe a bit too much]
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+![alt text][will-o-wisp-pic]
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[will-o-wisp-pic]: http://internationalphotomag.com/wp-content/uploads/2019/05/frang_dushaj_ww_10-1024x614_c.jpg "Beware the will-o’-the-wisp!"
+
+
+
+
+
+<!---
+{% if page.comments %} <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://samsarana.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> {% endif %}
+-->
