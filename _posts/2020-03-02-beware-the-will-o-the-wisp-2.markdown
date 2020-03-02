@@ -3,6 +3,7 @@ layout: post
 title:  Beware the will-o’-the-wisp! and other lessons (Part II)
 date:   2020-03-02 13:40:00 +1300
 categories: posts
+comments: true
 ---
 
 This is a second post with advice I would have given Sam-one-year-ago to help him with his master's thesis. Unlike the [first post](/posts/2020/02/27/beware-the-will-o-the-wisp-1.html), I think these lessons might be helpful for beginner researchers in most disciplines.
@@ -50,28 +51,4 @@ What could I have done differently? If I had pre-committed to sending the email 
 [will-o-wisp-pic]: http://internationalphotomag.com/wp-content/uploads/2019/05/frang_dushaj_ww_10-1024x614_c.jpg "Beware the will-o’-the-wisp!"
 
 
-
-
-
-<!---
-{% if page.comments %} <div id="disqus_thread"></div>
-<script>
-
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://samsarana.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> {% endif %}
--->
+{% if page.comments %} {% include disqus.html %} {% endif %}
