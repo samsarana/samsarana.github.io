@@ -4,7 +4,6 @@
 
 layout: home
 # paginate: true
-alt_title: Rung by Rung
 sub_title: Towards the Stars.
 image: /assets/images/ladder-stars.jpg
 introduction: |
