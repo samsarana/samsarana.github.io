@@ -1,6 +1,7 @@
 ---
-title: Post Archive
-layout: posts
+title: Blog
+layout: category
+taxonomy: posts
 permalink: /posts/
-entries_layout: list
+entries_layout: # list (default), grid
 ---
