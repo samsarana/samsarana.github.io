@@ -5,7 +5,7 @@
 layout: home
 # paginate: true
 sub_title:
-image: /assets/images/river.jpg
+image: /assets/images/river-1.jpg
 introduction: |
   Hi, I'm Sam. I'm confused about a lot of things, and my writing could use some work. So, I thought I'd make a space for writing about the things I find or found confusing.
 
