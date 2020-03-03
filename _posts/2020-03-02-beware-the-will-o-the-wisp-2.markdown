@@ -4,6 +4,7 @@ title:  Beware the will-o’-the-wisp! and other lessons (Part II)
 date:   2020-03-02 13:40:00 +1300
 categories: posts
 comments: true
+image: http://internationalphotomag.com/wp-content/uploads/2019/05/frang_dushaj_ww_10-1024x614_c.jpg
 ---
 
 This is a second post with advice I would have given Sam-one-year-ago to help him with his master's thesis. Unlike the [first post](/posts/2020/02/27/beware-the-will-o-the-wisp-1.html), I think these lessons might be helpful for beginner researchers in most disciplines.
@@ -31,9 +32,7 @@ Secondly, it ensures that I’m clear how my actions will move me to a solution.
 
 ## 4) Beware the will-o’-the-wisp!
 
-In English folk tales, the [will-o'-the-wisp](https://en.wikipedia.org/wiki/Will-o%27-the-wisp) is a ghostly light, seen by travellers at night. Because it recedes as travellers approach, it earned an infamous reputation for leading astray the curious or confused. Apparently, it might look something like this:
-
-  ![alt text][will-o-wisp-pic]
+In English folk tales, the [will-o'-the-wisp](https://en.wikipedia.org/wiki/Will-o%27-the-wisp) is a ghostly light, seen by travellers at night. Because it recedes as travellers approach, it earned an infamous reputation for leading astray the curious or confused. Apparently, it might look something like this the image at the top of this post...
 
 In my nighttime travels through the treacherous terrain of RL, I was enticed by two such receding targets. Firstly, I intended to get in touch with the authors of a related paper, which I expect would have resulted in some invaluable guidance. Before doing so, however, I felt a need to “prove myself” by making a solid start and “having something to show for it”. But of course, the target of “having something to show for it” receded as I approached---and so I never sent the email.
 
