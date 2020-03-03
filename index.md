@@ -4,9 +4,11 @@
 
 layout: home
 # paginate: true
-sub_title: Towards the Stars.
-image: /assets/images/ladder-stars.jpg
+sub_title:
+image: /assets/images/river.jpg
 introduction: |
-  This is the blog of Sam Clarke. If you consciously form the intention to do so, I invite you to read a post or click on the menu.
+  Hi, I'm Sam. I'm confused about a lot of things, and my writing could use some work. So, I thought I'd make a space for writing about the things I find or found confusing.
+
+  While you're here, you could check out some of [that writing](/posts), or read more [about me](/posts).
 entries_layout: list #grid
 ---
