@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-GB
-title: Rung by Rung
+title: Insequent
 email: samckclarke@gmail.com
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
