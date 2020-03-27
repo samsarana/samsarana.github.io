@@ -8,7 +8,7 @@ image: /assets/images/river-2.jpg
 I graduated from Oxford University where I studied philosophy, machine learning and theoretical computer science. So far, of all the ideas I've encountered about what I ought to do with my life, [longtermism](https://80000hours.org/articles/future-generations/) makes the most sense to me. Basically, this means my goal is to help make the long-term future as wonderful as possible. Recently, that has involved:
 
 -   Trying to clearly state the strongest arguments about why advanced AI might pose an existential threat, as part of an [AI Safety Camp](https://aisafetycamp.com/).
--   Writing a [master's thesis](/assets/pdfs/dissertation.pdf), in which I applied [Deep Bayesian Active Learning](https://arxiv.org/pdf/1703.02910.pdf) to the [Reward Modelling approach](https://arxiv.org/pdf/1811.07871.pdf) to AI alignment, in order to improve its sample efficiency.
+-   Writing a [master's thesis](/assets/pdfs/msc-thesis.pdf), in which I applied [Deep Bayesian Active Learning](https://arxiv.org/pdf/1703.02910.pdf) to the [Reward Modelling approach](https://arxiv.org/pdf/1811.07871.pdf) to AI alignment, in order to improve its sample efficiency.
 -   Spending a summer as a research fellow at the [Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/).
 -   Drinking copious amounts of green tea.
 -   Thinking about how to make my brain work better.
