@@ -143,7 +143,7 @@ As a bonus for those who know some information theory, there is an alternative w
 
 ## Links to relevant literature
 
--   The [original paper](https://papers.nips.cc/paper/1011-active-learning-with-statistical-models.pdf) which introduced active learning in 1995.
+-   The [original paper](https://papers.nips.cc/paper/1011-active-learning-with-statistical-models.pdf) which introduced active learning (1995).
     
 -   The [book](https://www.amazon.com/Elementary-Applied-Statistics-Students-Behavioral/dp/B0013625B2) which introduced variation ratios (1965).
     
