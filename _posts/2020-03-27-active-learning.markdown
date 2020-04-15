@@ -17,7 +17,7 @@ Deep learning (DL) rocks in domains with lots of data. Take image classification
 |:--:| 
 | *Figure 1: labelled images in the CIFAR-100 dataset* |
 
-Hence the slogan “data is the new oil”: if you’ve got lots of data about some problem, there’s a good chance you could train a DL model to solve it. (Though keep in mind that we're only talking about problems that are "well-defined" in the mathematical sense, like "labelling images", "winning at a game" or "guessing the next word in a sentence").
+Hence the slogan “data is the new oil”: if you’ve got lots of data about some problem, there’s a good chance you could train a DL model to solve it. (Though keep in mind that we're only talking about problems that are "well-defined" in the mathematical sense, like "labelling images", "winning at a game" or "guessing the next word in a sentence".)
 
   
 
