@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  An Intuitive Introduction to Active Learning
+title:  An intuitive introduction to active learning
 date:   2020-03-27 16:00:00 +1300
 categories: posts
 comments: true
