@@ -6,11 +6,11 @@ categories: posts
 comments: true
 ---
 
-Reward shaping is a term I’m borrowing from reinforcement learning, where it means modifying (“shaping”) the reward function in a way that doesn’t change the optimal policy, but makes learning that policy easier[^1].
+Reward shaping is a term I’m borrowing from reinforcement learning, where it means modifying (“shaping”) the reward function in a way that doesn’t change the optimal policy, but makes learning that policy easier.
 
   
 
-Accordingly, the thing I’m calling "self-reward shaping" (SRS) is making changes to myself or my environment such that I have more rewarding experiences of behaviour which helps me achieve my goals as more rewarding (and less rewarding experiences of behaviour which doesn’t help me achieve my goals)[^2].
+Accordingly, the thing I’m calling "self-reward shaping" (SRS) is making changes to myself or my environment such that I have more rewarding experiences of behaviour which helps me achieve my goals as more rewarding (and less rewarding experiences of behaviour which doesn’t help me achieve my goals)[^1].
 
   
 
@@ -59,5 +59,4 @@ Anyway, this post is already longer than I intended. For now, I’m proceeding c
 
 
 <!-- Footnotes -->
-[^1]:  If that makes no sense, don’t worry, it’s not really important for the rest of this post.
-[^2]: A lot of this post echoes CFAR’s [goal factoring](https://www.lesswrong.com/tag/goal-factoring) technique; I should think about what parts of this post, if any, make an original contribution.
+[^1]: A lot of this post echoes CFAR’s [goal factoring](https://www.lesswrong.com/tag/goal-factoring) technique; I should think about what parts of this post, if any, make an original contribution.
