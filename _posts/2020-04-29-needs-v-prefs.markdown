@@ -93,7 +93,7 @@ I’m a fan of Marshall Rosenberg’s work on [nonviolent communication](https:/
     
 -   autonomy (freedom, independence, "space")
     
--   meaning (contribution, growth. stimulation, self-expression, to matter).
+-   meaning (contribution, growth, stimulation, self-expression, to matter).
     
 
   

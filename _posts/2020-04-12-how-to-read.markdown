@@ -63,7 +63,7 @@ The article also suggests some neat ways of optimizing for this goal. My favouri
 
     
 
-2.  Understanding (80%): read more carefully into their claims; evaluate the evidence.
+2.  Understanding (70%): read more carefully into their claims; evaluate the evidence.
 
     
 
