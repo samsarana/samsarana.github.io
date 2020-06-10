@@ -6,11 +6,15 @@ categories: posts
 comments: true
 ---
 
+In this post, I'll share some informal thoughts about the "self-reward shaping", i.e. doing things in order to have more rewarding experiences of behaviour which helps to achieve one's goals.
+
+
+
 Reward shaping is a term I’m borrowing from reinforcement learning, where it means modifying (“shaping”) the reward function in a way that doesn’t change the optimal policy, but makes learning that policy easier.
 
   
 
-Accordingly, the thing I’m calling "self-reward shaping" (SRS) is making changes to myself or my environment such that I have more rewarding experiences of behaviour which helps me achieve my goals as more rewarding (and less rewarding experiences of behaviour which doesn’t help me achieve my goals)[^1].
+Accordingly, the thing I’m calling "self-reward shaping" (SRS) is making changes to yourself or your environment such that you have more rewarding experiences of behaviour which helps to achieve your goals (and less rewarding experiences of behaviour which doesn’t)[^1].
 
   
 
